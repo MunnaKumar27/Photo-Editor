@@ -1,2 +1,2 @@
 # Photo-Editor
-Photo Editor using html css Javascript 
+### Photo Editor using html css Javascript 
